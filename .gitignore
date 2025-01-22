@@ -1,0 +1,7 @@
+**/__pycache__/**
+**/__pycache__
+/__pycache__
+wget
+.pytest_cache
+.ruff_cache
+.coverage
