@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dynamic-llamafile-docker"
-version = "1.0.0"
+version = "1.0.1"
 description = "A dynamic strategy to create a Llamafile Docker image through some predefined gguf models"
 authors = ["Thiago Costa <thiago.gcosta@alumni.usp.br>"]
 maintainers = ["Thiago Costa <thiago.gcosta@alumni.usp.br>"]
